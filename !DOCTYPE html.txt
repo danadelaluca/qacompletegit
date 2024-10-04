@@ -7,6 +7,6 @@
   <title>Git workshop</title>
  </head>
  <body>
-  <h1>Titlu</h1>
+  <h1>Titlu mai elaborat</h1>
  </body>
 </html>
